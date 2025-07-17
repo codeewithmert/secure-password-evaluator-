@@ -1,0 +1,35 @@
+{
+  "name": "@codeewithmert/secure-password-evaluator",
+  "version": "1.3.0",
+  "description": "Şifrelerin güvenliğini analiz eden, sızmış şifreleri tespit eden ve öneriler sunan modern Node.js kütüphanesi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/evaluator.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeewithmert/secure-password-evaluator.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "evaluator",
+    "strength",
+    "nodejs",
+    "npm",
+    "password-checker",
+    "password-strength",
+    "password-policy",
+    "pwned",
+    "haveibeenpwned"
+  ],
+  "author": "Senin İsmin <email@domain.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeewithmert/secure-password-evaluator/issues"
+  },
+  "homepage": "https://github.com/codeewithmert/secure-password-evaluator#readme"
+} 
